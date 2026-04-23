@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Co-Founder at Zeylun | Building scalable ERP systems and business automation solutions.
 
 
