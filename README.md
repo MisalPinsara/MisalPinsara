@@ -1,5 +1,5 @@
 ## About Me:
-Co-Founder at Zeylun | Building scalable ERP systems and business automation solutions.
+Co-Founder at Zeylun, focused on building custom ERP systems, workflow automation, and SaaS solutions. Passionate about product development, scalable software, and solving real business problems with technology.
 
 
 ## Tech Stack:
